@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sakshi Popatrao Patil</h1>
-<h3 align="center">Full Stack Developer | Java Developer | Software Engineer</h3>
-
-<!-- <p align="center">
-  <a href="https://github.com/sakshipatil-25"><img src="https://img.shields.io/github/followers/sakshipatil-25?label=Followers&style=social" alt="GitHub Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=sakshipatil-25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
---- -->
+<h1 align="center">Hi 👋, I'm Sakshi Patil</h1>
+<h3 align="center">Full Stack Developer | Java Developer </h3>
 
 ## 👨‍💻 About Me
 
@@ -116,27 +109,6 @@
 - Integrated **AI-powered image processing workflows** with secure API communication and data validation.
 - Optimized REST API performance, database queries, and backend workflows.
 - Used **Git & GitHub** for version control, participated in code reviews, and followed **Agile** practices.
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 AI Based Career Platform
-`React.js` · `Spring Boot` · `Java` · `MySQL` · `Python` · `Firebase` · `JWT` · `Docker`
-
-- AI-powered career platform with **Resume Analysis, ATS Score Evaluation, Job Matching, Skill Gap Analysis**, and **Interview Preparation**.
-- Built scalable RESTful APIs with Spring Boot for resume parsing, authentication, and AI services.
-- Implemented **role-based authentication** (Candidate / Recruiter / Admin) using Spring Security & JWT.
-- Integrated Firebase auth, Docker containerization, and MySQL for secure, scalable deployment.
-- Improved backend performance via optimized SQL queries and efficient database management.
-
-### 🏥 OPD Management System
-`Java` · `JSP` · `JDBC` · `Oracle Database` · `HTML` · `CSS` · `Apache Tomcat`
-
-- Web-based OPD system to streamline patient registration, appointment handling, and medical records.
-- Implemented full **CRUD** operations using Java, JSP, JDBC, and Oracle DB.
-- Designed responsive UI with HTML/CSS and built advanced search + input validation.
-- Deployed on Apache Tomcat following **MVC architecture** and engineering best practices.
 
 ---
 
