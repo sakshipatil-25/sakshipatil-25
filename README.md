@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sakshi Popatrao Patil</h1>
 <h3 align="center">Full Stack Developer | Java Developer | Software Engineer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/sakshipatil-25"><img src="https://img.shields.io/github/followers/sakshipatil-25?label=Followers&style=social" alt="GitHub Followers"></a>
   <img src="https://komarev.com/ghpvc/?username=sakshipatil-25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
+--- -->
 
 ## 👨‍💻 About Me
 
